@@ -42,6 +42,8 @@ public class Main {
 		System.out.println(y);
 		System.out.println(z);
 		
+		sc.close();
+		
 		
 		
 		

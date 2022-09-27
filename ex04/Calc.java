@@ -26,6 +26,8 @@ public class Calc {
 		System.out.println("QUADRADO: " + areaQuadrado);
 		System.out.println("RETÂNGULO: " + areaRetangulo);
 		
+		sc.close();
+		
 		
 		
 

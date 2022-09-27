@@ -8,12 +8,12 @@ public class Pecas {
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
 		
-		int codigoPeca1 = sc.nextInt();
+		// int codigoPeca1 = sc.nextInt();
 		int numPecas1 = sc.nextInt();
 		double valorPeca1 = sc.nextDouble();
 		double subTotal1 = numPecas1 * valorPeca1;
 		
-		int codigoPeca2 = sc.nextInt();
+		// int codigoPeca2 = sc.nextInt();
 		int numPecas2 = sc.nextInt();
 		double valorPeca2 = sc.nextDouble();
 		double subTotal2 = numPecas2 * valorPeca2;
@@ -22,5 +22,7 @@ public class Pecas {
 		
 		
 		System.out.println("Valor a pagar: R$" + total);
+		
+		sc.close();
 	}
 }

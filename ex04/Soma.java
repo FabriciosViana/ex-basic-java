@@ -12,6 +12,8 @@ public class Soma {
 		int soma = num1 + num2;
 		
 		System.out.printf("A soma entre %d e %d é: %d ", num1, num2, soma);
+		
+		sc.close();
 	}
 
 }
