@@ -22,7 +22,7 @@ This repository contains Java exercises I've developed during my learning journe
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/java-exercises.git
+   git clone https://github.com/FabriciosViana/ex-basic-java
 
 
 # Repositório de Exercícios de Java 🇧🇷<a name="portugues"></a>
@@ -48,6 +48,6 @@ Este repositório é uma coleção de exercícios que desenvolvi durante meus es
 ## Como Usar
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/java-exercicios.git
+   git clone https://github.com/FabriciosViana/ex-basic-java
    
 [Viw in English](#java-exercises-repository-a-nameenglisha)
