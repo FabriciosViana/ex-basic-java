@@ -6,7 +6,7 @@ public class GuessTheNumber {
         Scanner sc = new Scanner(System.in);
 
 
-        Random numberGenerator = new Random(100);
+        Random numberGenerator = new Random();
         int misteriousNumber = numberGenerator.nextInt(100);
         int attempt;
         do {
