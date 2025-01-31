@@ -1,4 +1,3 @@
-
 # Java Exercises Repository 🌟<a name="english"></a>
 
 Welcome to my Java exercises repository! Here, I share code examples and practice projects covering basic to advanced Java concepts. Feel free to explore and learn!
